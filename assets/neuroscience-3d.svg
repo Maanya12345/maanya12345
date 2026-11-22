@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="560" viewBox="0 0 1400 560" role="img" aria-labelledby="title desc">
+<title id="title">Three-dimensional neural brain illustration</title>
+<desc id="desc">A luminous violet and cyan 3D-style brain formed from neural pathways, synapses, and glowing connections against a deep navy scientific background.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#10183b"/><stop offset="1" stop-color="#071b2d"/></linearGradient>
+  <radialGradient id="brain" cx="40%" cy="30%" r="75%"><stop stop-color="#f0eaff"/><stop offset=".22" stop-color="#a78bfa"/><stop offset=".55" stop-color="#4f46e5"/><stop offset=".82" stop-color="#164e9b"/><stop offset="1" stop-color="#082b52"/></radialGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a5f3fc"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#67e8f9" stroke-opacity=".09" stroke-width="1"/></pattern>
+</defs>
+<rect width="1400" height="560" rx="28" fill="url(#bg)"/><rect width="1400" height="560" rx="28" fill="url(#grid)"/>
+<ellipse cx="700" cy="290" rx="320" ry="205" fill="#4f46e5" opacity=".18" filter="url(#soft)"/>
+<g stroke="#22d3ee" stroke-opacity=".5" fill="none" stroke-width="2">
+ <path d="M70 110L220 180L310 90L430 160M970 90L1090 170L1230 110L1340 205M90 410L250 330L350 450M1040 420L1160 340L1320 430"/>
+ <path d="M220 180L250 330M1090 170L1160 340M310 90L430 160M1230 110L1340 205"/>
+</g>
+<g fill="#67e8f9" filter="url(#glow)"><circle cx="70" cy="110" r="4"/><circle cx="220" cy="180" r="5"/><circle cx="310" cy="90" r="4"/><circle cx="430" cy="160" r="5"/><circle cx="970" cy="90" r="4"/><circle cx="1090" cy="170" r="5"/><circle cx="1230" cy="110" r="4"/><circle cx="1340" cy="205" r="5"/><circle cx="90" cy="410" r="4"/><circle cx="250" cy="330" r="5"/><circle cx="350" cy="450" r="4"/><circle cx="1040" cy="420" r="4"/><circle cx="1160" cy="340" r="5"/><circle cx="1320" cy="430" r="4"/></g>
+<!-- 3D depth silhouette -->
+<path d="M699 112C650 65 577 87 553 135C499 123 455 165 462 216C421 251 438 313 478 337C466 389 516 424 562 410C594 458 657 449 690 414C730 452 794 435 808 394C864 404 902 355 880 310C923 271 898 211 856 196C854 139 796 104 749 126C733 106 716 103 699 112Z" fill="#101b54" stroke="#0ea5e9" stroke-width="8" opacity=".8" transform="translate(18 20)"/>
+<path d="M699 112C650 65 577 87 553 135C499 123 455 165 462 216C421 251 438 313 478 337C466 389 516 424 562 410C594 458 657 449 690 414C730 452 794 435 808 394C864 404 902 355 880 310C923 271 898 211 856 196C854 139 796 104 749 126C733 106 716 103 699 112Z" fill="url(#brain)" stroke="url(#edge)" stroke-width="5" filter="url(#glow)"/>
+<g fill="none" stroke="#e0f2fe" stroke-opacity=".72" stroke-width="7" stroke-linecap="round">
+ <path d="M695 132C650 145 663 181 626 195S584 220 601 253S568 302 536 285"/>
+ <path d="M690 139C729 158 714 184 755 199S805 231 781 259S813 302 851 291"/>
+ <path d="M691 210C652 222 666 258 633 276S617 324 654 346S656 388 631 405"/>
+ <path d="M710 212C749 225 733 258 770 278S783 323 746 345S747 385 774 402"/>
+ <path d="M540 173C567 187 569 210 551 229M817 157C793 181 803 202 831 218M495 282C531 270 550 290 546 319M850 333C817 326 804 347 818 372"/>
+</g>
+<g fill="none" stroke="#67e8f9" stroke-width="2.5" opacity=".9" filter="url(#glow)">
+ <path d="M510 220L574 250L621 206L681 235L731 180L792 225L846 205"/>
+ <path d="M530 330L595 302L650 348L704 295L760 350L830 310"/>
+ <path d="M602 150L650 195L700 165L751 205L799 160"/>
+</g>
+<g fill="#fff" filter="url(#glow)"><circle cx="574" cy="250" r="6"/><circle cx="621" cy="206" r="5"/><circle cx="681" cy="235" r="6"/><circle cx="731" cy="180" r="5"/><circle cx="792" cy="225" r="6"/><circle cx="595" cy="302" r="5"/><circle cx="650" cy="348" r="6"/><circle cx="704" cy="295" r="5"/><circle cx="760" cy="350" r="6"/></g>
+<path d="M699 118V418" stroke="#cffafe" stroke-opacity=".35" stroke-width="3" stroke-dasharray="5 10"/>
+<g fill="#dbeafe" font-family="Arial,Helvetica,sans-serif">
+ <text x="700" y="500" text-anchor="middle" font-size="30" letter-spacing="8" fill="#a5f3fc">NEURAL DYNAMICS • COGNITION • COMPUTATION</text>
+ <text x="700" y="535" text-anchor="middle" font-size="15" letter-spacing="3" fill="#94a3b8">A COMPUTATIONAL VIEW OF THE LIVING BRAIN</text>
+</g>
+</svg>
