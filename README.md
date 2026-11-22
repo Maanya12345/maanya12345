@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050817,35:172554,70:312e81,100:0e7490&height=180&section=header&text=MAANYA%20TYAGI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=NEUROSCIENCE%20%C3%97%20ARTIFICIAL%20INTELLIGENCE%20%C3%97%20INNOVATION&descAlignY=62&descSize=15" width="100%" alt="Maanya Tyagi profile header"/>
 
-<img src="./assets/neuroscience-3d.svg" width="100%" alt="Custom dimensional 3D-style neural brain sculpture and scientific network"/>
+<img src="./assets/neuroscience-3d.svg" width="100%" alt="Animated 3D neural network with moving synaptic signals and layered neuron nodes"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=67E8F9&center=true&vCenter=true&width=850&lines=Neuroscience+%7C+AI%2FML+%7C+Computational+Thinking;Researcher+in+the+making+%C2%B7+Engineer+by+training;Founder+%40+MaVionix+%C2%B7+Building+intelligent+systems" alt="Typing introduction"/></a>
 
