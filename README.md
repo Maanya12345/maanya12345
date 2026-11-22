@@ -58,7 +58,7 @@ class ResearcherBuilder:
 |:--|:--:|:--|
 | Conference papers | **8** | Accepted and presented |
 | Journal articles | **2** | Under review |
-| Indian design applications | **1** | Co-applicant; application no. 498807-001 |
+| Registered Indian designs | **1** | Registered 16 April 2026; co-applicant; Design No. 498807-001 |
 | Granted patents | **0** | No granted patent listed in current CV |
 
 </div>
@@ -91,8 +91,8 @@ class ResearcherBuilder:
 
 ### 📐 Intellectual property
 
-- **Smart Robotic Pipeline Maintenance Device** — Co-applicant, Indian Design Application No. **498807-001**, Government of India (CGPDTM), 2026.
-- Patent count is shown separately from design applications; this application is not represented as a granted patent.
+- **Smart Robotic Pipeline Maintenance Device** — Registered Indian design, Design No. **498807-001**, issued by the Government of India (CGPDTM) on **16 April 2026**. Co-applicant.
+- This is a registered design, not a granted patent. The CV does not list a granted patent.
 
 ## 🔬 Research interests & questions
 
