@@ -111,18 +111,49 @@ class ResearcherBuilder:
 
 ## 🧭 Research roadmap | 2025–2027
 
-My path moves from building intelligent systems toward understanding intelligence itself.
+My research path — from engineering intelligent systems to investigating biological intelligence.
 
-| Timeline | Focus | Planned actions / milestones |
-|:--|:--|:--|
-| **2025 · Foundation** | AI/ML and engineering foundations | Strengthen programming, machine learning, data science and scientific problem-solving; explore robotics and human-centred intelligent systems |
-| **2026 · Neuroscience transition** | Neuroscience and computational foundations | Study cognition, attention, perception and neural dynamics; build foundations in computational neuroscience; explore neural representations and sensorimotor systems |
-| **2026 · Learning track** | Structured study | Target courses: HarvardX *Fundamentals of Neuroscience*; University of Washington *Computational Neuroscience*; EPFL *Neuronal Dynamics of Cognition*; NPTEL *Computational Neuroscience* |
-| **2026 · Journal reading** | Research literacy | Follow *Nature Neuroscience*, *Journal of Neuroscience*, *Journal of Computational Neuroscience*, *Neural Computation*, *Network Neuroscience*, *Frontiers in Computational Neuroscience* and *PLOS Computational Biology* |
-| **Winter 2026** | **Internship target** | Winter Internship 2026 — organisation / programme name to be added when confirmed |
-| **2027 · Research immersion** | Research internship and project development | Target a summer / research internship; deepen computational neuroscience, neural modelling, sensorimotor representations and biorobotics |
-| **2027 · Flagship direction** | Neural representation over time | Develop the research direction: *Temporal Dynamics of Neural Representations During Attention and Sensorimotor Tasks* |
-| **Long-term** | Interdisciplinary research | Computational neuroscience → neural dynamics → sensorimotor intelligence → AI and bio-inspired robotics |
+```mermaid
+flowchart TD
+    A(["2025 · FOUNDATION"]) --> B["AI / ML · Data Science · Programming"]
+    B --> C["Research exploration · Robotics · Human-centred AI"]
+    C --> D(["2026 · NEUROSCIENCE TRANSITION"])
+    D --> E["Neuroscience foundations"]
+    E --> F["Cognition · Attention · Perception · Neural dynamics"]
+    F --> G["Computational neuroscience"]
+    G --> H["Neural representations & sensorimotor systems"]
+
+    H --> I["LEARNING PATH"]
+    I --> I1["HarvardX · Fundamentals of Neuroscience"]
+    I --> I2["University of Washington · Computational Neuroscience"]
+    I --> I3["EPFL · Neuronal Dynamics of Cognition"]
+    I --> I4["NPTEL · Computational Neuroscience"]
+
+    H --> J["JOURNAL READING"]
+    J --> J1["Nature Neuroscience · Journal of Neuroscience"]
+    J --> J2["Neural Computation · Network Neuroscience"]
+    J --> J3["Journal of Computational Neuroscience · PLOS Computational Biology"]
+
+    H --> K(["WINTER 2026 · INTERNSHIP TARGET"])
+    K --> K1["Organisation / programme name · to be added"]
+
+    K --> L(["2027 · RESEARCH IMMERSION"])
+    I --> L
+    J --> L
+    L --> M["Research internship / summer research opportunity"]
+    M --> N["Neural modelling · Sensorimotor representations · Biorobotics"]
+    N --> O["Flagship direction"]
+    O --> P["Temporal dynamics of neural representations during attention and sensorimotor tasks"]
+    P --> Q(["LONG-TERM RESEARCH DIRECTION"])
+    Q --> R["Computational neuroscience → Neural dynamics → Sensorimotor intelligence → Bio-inspired robotics"]
+
+    classDef year fill:#102a56,stroke:#67e8f9,color:#e0f2fe,stroke-width:2px
+    classDef track fill:#211c50,stroke:#a78bfa,color:#f5f3ff
+    classDef target fill:#083344,stroke:#22d3ee,color:#cffafe
+    class A,D,K,L,Q year
+    class I,J,O track
+    class K1 target
+```
 
 *Courses and journals are learning targets and reading priorities, not claims of completed coursework or publications. Internship and research placements are goals, not confirmed selections.*
 
