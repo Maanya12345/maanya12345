@@ -109,6 +109,25 @@ class ResearcherBuilder:
 
 *These are developing research interests and hypotheses, not claims of completed neuroscience findings.*
 
+## 🧭 Research roadmap | 2025–2027
+
+My path is moving from building intelligent systems toward understanding intelligence itself — from applied AI/ML to neuroscience, computational modelling, and sensorimotor systems.
+
+| Timeline | Focus | Planned direction / milestone |
+|:--|:--|:--|
+| **2025** | Foundation & exploration | Strengthen AI/ML and programming foundations; begin connecting intelligent systems, robotics, and human-centred applications with questions about biological intelligence. |
+| **2026** | Neuroscience transition | Build foundations in neuroscience and computational neuroscience; study neural systems, cognition, attention, perception, and sensorimotor representations. |
+| **2026 — learning track** | Courses to pursue | HarvardX **Fundamentals of Neuroscience**; University of Washington **Computational Neuroscience**; EPFL **Computational Neuroscience: Neuronal Dynamics of Cognition**; NPTEL **Computational Neuroscience**. |
+| **2026 — journal reading** | Follow current research | *Nature Neuroscience* · *Journal of Neuroscience* · *Journal of Computational Neuroscience* · *Neural Computation* · *Network Neuroscience* · *Frontiers in Computational Neuroscience* · *PLOS Computational Biology*. |
+| **Winter 2026** | Internship target | **Winter Internship 2026** — target opportunity. Organisation / programme name and details to be added. |
+| **2027** | Research immersion | Target a research internship / summer research opportunity in computational neuroscience, neural modelling, sensorimotor systems, or biorobotics; develop a focused, reproducible research project. |
+| **2027** | Flagship research direction | Explore **temporal dynamics of neural representations during attention and sensorimotor tasks**, using suitable public datasets and computational analysis where feasible. |
+| **2027** | Long-term integration | Connect computational neuroscience and neural control with AI and bio-inspired robotics; build the foundation for advanced research opportunities. |
+
+**Research direction:** Computational neuroscience → neural dynamics & representation → sensorimotor intelligence → bio-inspired robotics.
+
+*Courses and journals above are learning targets and reading priorities, not claims of completed coursework or publications. Internship and research placements are goals, not confirmed selections.*
+
 ## 🛰️ Academic & builder journey
 
 | Period | Milestone |
