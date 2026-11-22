@@ -11,6 +11,30 @@
 <g fill="#a5f3fc" filter="url(#g)"><circle cx="70" cy="120" r="5"/><circle cx="180" cy="190" r="6"/><circle cx="290" cy="115" r="5"/><circle cx="380" cy="205" r="5"/><circle cx="1120" cy="125" r="5"/><circle cx="1230" cy="200" r="6"/><circle cx="1360" cy="130" r="5"/><circle cx="1440" cy="230" r="5"/></g>
 <g transform="translate(190 295)" stroke="#c4b5fd" stroke-width="4" fill="none" stroke-linecap="round" filter="url(#g)"><path d="M0 0L-65 -50L-100 -100M-65 -50L-115 -35M-65 -50L-65 -115M0 0L-50 55L-95 105M-50 55L-115 75M0 0L65 -35L110 -90M65 -35L120 -20M0 0L70 55L115 110"/><circle r="20" fill="#7c3aed" stroke="#cffafe"/></g>
 <g transform="translate(1300 365)" stroke="#67e8f9" stroke-width="4" fill="none" stroke-linecap="round" filter="url(#g)"><path d="M0 0L-60 -45L-100 -95M-60 -45L-120 -30M-60 -45L-70 -110M0 0L-55 60L-100 105M-55 60L-120 75M0 0L65 -40L110 -95M65 -40L125 -20M0 0L65 60L115 110"/><circle r="20" fill="#6d28d9" stroke="#cffafe"/></g>
+<!-- Animated neural network: layered orbital depth, rotating nodes and travelling signals -->
+<g id="neural-orbit" fill="none" stroke-linecap="round">
+  <ellipse cx="750" cy="310" rx="365" ry="150" stroke="#22d3ee" stroke-opacity=".35" stroke-width="2" transform="rotate(-18 750 310)">
+    <animateTransform attributeName="transform" type="rotate" values="-18 750 310;342 750 310" dur="42s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="750" cy="310" rx="330" ry="205" stroke="#a78bfa" stroke-opacity=".3" stroke-width="2" transform="rotate(58 750 310)">
+    <animateTransform attributeName="transform" type="rotate" values="58 750 310;418 750 310" dur="55s" repeatCount="indefinite"/>
+  </ellipse>
+  <path id="signal-a" d="M420 300 Q560 115 750 310 T1080 300" stroke="#67e8f9" stroke-opacity=".22" stroke-width="2"/>
+  <path id="signal-b" d="M500 430 Q750 540 1000 420" stroke="#c4b5fd" stroke-opacity=".25" stroke-width="2"/>
+  <circle r="7" fill="#cffafe" stroke="#22d3ee" stroke-width="2">
+    <animateMotion dur="6s" repeatCount="indefinite"><mpath href="#signal-a"/></animateMotion>
+  </circle>
+  <circle r="5" fill="#ddd6fe" stroke="#a78bfa" stroke-width="2">
+    <animateMotion dur="4.5s" repeatCount="indefinite"><mpath href="#signal-b"/></animateMotion>
+  </circle>
+  <circle r="4" fill="#67e8f9"><animateMotion dur="8s" repeatCount="indefinite" begin="-3s"><mpath href="#signal-a"/></animateMotion></circle>
+</g>
+<g fill="#a5f3fc">
+  <circle cx="410" cy="280" r="5"><animate attributeName="r" values="3;8;3" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="1085" cy="300" r="6"><animate attributeName="r" values="4;9;4" dur="3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="750" cy="95" r="5"><animate attributeName="opacity" values=".25;1;.25" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="750" cy="515" r="5"><animate attributeName="opacity" values="1;.25;1" dur="2.6s" repeatCount="indefinite"/></circle>
+</g>
 <!-- dimensional brain extrusion -->
 <g id="brain-motion"><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0;0 5;0 0" dur="8s" repeatCount="indefinite"/>
 <path d="M752 125C699 85 624 104 599 158C532 145 481 195 493 254C447 294 470 360 516 386C505 448 559 489 612 472C650 527 718 516 755 475C801 523 870 499 885 449C949 459 988 401 959 350C1003 302 971 230 921 213C918 151 852 111 798 139C781 119 766 116 752 125Z" transform="translate(22 38)" fill="url(#side)" stroke="#0e7490" stroke-width="8"/>
