@@ -113,48 +113,16 @@ class ResearcherBuilder:
 
 My path moves from building intelligent systems toward understanding intelligence itself.
 
-```mermaid
-flowchart TD
-    A(["2025 · FOUNDATION & EXPLORATION"]) --> B["Build AI/ML and programming foundations"]
-    B --> C["Explore intelligent systems, robotics and human-centred applications"]
-    C --> D(["2026 · NEUROSCIENCE TRANSITION"])
-    D --> E["Study neuroscience, cognition, attention and perception"]
-    E --> F["Develop computational neuroscience foundations"]
-    F --> G["Explore neural dynamics and sensorimotor representations"]
-
-    G --> H["Learning track"]
-    H --> H1["HarvardX · Fundamentals of Neuroscience"]
-    H --> H2["University of Washington · Computational Neuroscience"]
-    H --> H3["EPFL · Neuronal Dynamics of Cognition"]
-    H --> H4["NPTEL · Computational Neuroscience"]
-
-    G --> I["Journal reading"]
-    I --> I1["Nature Neuroscience · Journal of Neuroscience"]
-    I --> I2["Journal of Computational Neuroscience · Neural Computation"]
-    I --> I3["Network Neuroscience · Frontiers in Computational Neuroscience · PLOS Computational Biology"]
-
-    G --> J(["WINTER 2026 · INTERNSHIP TARGET"])
-    J --> J1["Winter Internship 2026"]
-    J1 --> J2["Organisation / programme name to be added"]
-
-    J --> K(["2027 · RESEARCH IMMERSION"])
-    I --> K
-    H --> K
-    K --> L["Target research internship / summer research opportunity"]
-    L --> M["Computational neuroscience · neural modelling · sensorimotor systems · biorobotics"]
-    M --> N["Flagship direction: temporal dynamics of neural representations during attention and sensorimotor tasks"]
-    N --> O(["LONG-TERM DIRECTION"])
-    O --> P["Neural dynamics → sensorimotor intelligence → AI & bio-inspired robotics"]
-
-    classDef year fill:#172554,stroke:#67e8f9,color:#e0f2fe,stroke-width:2px
-    classDef milestone fill:#1e1b4b,stroke:#a78bfa,color:#f5f3ff
-    classDef target fill:#083344,stroke:#22d3ee,color:#cffafe
-    class A,D,J,K,O year
-    class H,I,L,N milestone
-    class J1,J2 target
-```
-
-**Research direction:** Computational neuroscience → neural dynamics & representation → sensorimotor intelligence → bio-inspired robotics.
+| Timeline | Focus | Planned actions / milestones |
+|:--|:--|:--|
+| **2025 · Foundation** | AI/ML and engineering foundations | Strengthen programming, machine learning, data science and scientific problem-solving; explore robotics and human-centred intelligent systems |
+| **2026 · Neuroscience transition** | Neuroscience and computational foundations | Study cognition, attention, perception and neural dynamics; build foundations in computational neuroscience; explore neural representations and sensorimotor systems |
+| **2026 · Learning track** | Structured study | Target courses: HarvardX *Fundamentals of Neuroscience*; University of Washington *Computational Neuroscience*; EPFL *Neuronal Dynamics of Cognition*; NPTEL *Computational Neuroscience* |
+| **2026 · Journal reading** | Research literacy | Follow *Nature Neuroscience*, *Journal of Neuroscience*, *Journal of Computational Neuroscience*, *Neural Computation*, *Network Neuroscience*, *Frontiers in Computational Neuroscience* and *PLOS Computational Biology* |
+| **Winter 2026** | **Internship target** | Winter Internship 2026 — organisation / programme name to be added when confirmed |
+| **2027 · Research immersion** | Research internship and project development | Target a summer / research internship; deepen computational neuroscience, neural modelling, sensorimotor representations and biorobotics |
+| **2027 · Flagship direction** | Neural representation over time | Develop the research direction: *Temporal Dynamics of Neural Representations During Attention and Sensorimotor Tasks* |
+| **Long-term** | Interdisciplinary research | Computational neuroscience → neural dynamics → sensorimotor intelligence → AI and bio-inspired robotics |
 
 *Courses and journals are learning targets and reading priorities, not claims of completed coursework or publications. Internship and research placements are goals, not confirmed selections.*
 
