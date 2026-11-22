@@ -4,6 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D1A,35:172554,70:312E81,100:0F766E&height=220&section=header&text=Maanya%20Tyagi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Neuroscience%20%C3%97%20Artificial%20Intelligence%20%C3%97%20Innovation&descAlignY=60&descSize=17" width="100%" alt="Maanya Tyagi profile banner"/>
 
+<img src="./assets/neuroscience-3d.svg" width="100%" alt="Custom 3D-style neuroscience brain and neural network illustration"/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Exploring+the+computational+principles+of+the+brain;Building+at+the+intersection+of+AI+and+neuroscience;Turning+curiosity+into+research%2C+systems%2C+and+prototypes" alt="Typing introduction"/>
 </a>
@@ -91,7 +93,24 @@ The broader ambition is to build systems that understand context, coordinate tas
 - **Anveshana, Delhi:** Best Innovation / distinction for project work
 - **University of Jammu — Innovathon:** Recognition for innovation
 
-## 07 / GitHub activity
+
+
+## 08 / Research mindset
+
+I approach research through a cycle of **question → literature → hypothesis → experiment/model → evaluation**. I value careful interpretation, reproducibility, and the distinction between an interesting hypothesis and evidence that supports it.
+
+## 09 / Current learning path
+
+- Strengthening foundations in cognitive and computational neuroscience
+- Exploring neural data analysis and computational modelling
+- Building practical depth in machine learning and computer vision
+- Connecting intelligent systems with real-world human and industrial needs
+
+## 10 / Collaboration
+
+I'm especially interested in connecting with researchers, students, and builders working across neuroscience, AI/ML, neural computation, robotics, and human-centred technology.
+
+## 11 / GitHub activity
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Maanya12345&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117" alt="GitHub statistics"/>
